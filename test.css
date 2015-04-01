@@ -1,0 +1,23 @@
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.node-active{
+  stroke: #555;
+  stroke-width: 1.5px;
+}
+
+.link {
+  stroke: #555;
+  stroke-opacity: .7;
+}
+
+.link-active {
+  stroke-opacity: 1;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
